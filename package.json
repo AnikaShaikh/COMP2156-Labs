@@ -4,7 +4,8 @@
   "description": "COMP2156 Lab Exercise (Github action and Node project example)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"Error: No ciconfigured"
   },
   "keywords": [],
   "author": "Anika Shaikh-101411631",
