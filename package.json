@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "COMP2156 Lab Exercise (Github action and Node project example)",
   "main": "index.js",
+  "homepage": "https://anikashaikh.github.io/COMP2156-Labs/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
